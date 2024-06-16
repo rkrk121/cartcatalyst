@@ -1,0 +1,4 @@
+browser chrome
+url http://106.51.90.215/Build/Online_Shopping_System/admin/index.php
+username admin
+password Test@121
